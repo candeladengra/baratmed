@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/baratmed/static/css/main.f34b84bc.chunk.css",
+    "main.js": "/baratmed/static/js/main.8804e8b5.chunk.js",
+    "main.js.map": "/baratmed/static/js/main.8804e8b5.chunk.js.map",
+    "runtime-main.js": "/baratmed/static/js/runtime-main.f743fd67.js",
+    "runtime-main.js.map": "/baratmed/static/js/runtime-main.f743fd67.js.map",
+    "static/css/2.66f9e08a.chunk.css": "/baratmed/static/css/2.66f9e08a.chunk.css",
+    "static/js/2.b271296e.chunk.js": "/baratmed/static/js/2.b271296e.chunk.js",
+    "static/js/2.b271296e.chunk.js.map": "/baratmed/static/js/2.b271296e.chunk.js.map",
+    "static/js/3.b5084446.chunk.js": "/baratmed/static/js/3.b5084446.chunk.js",
+    "static/js/3.b5084446.chunk.js.map": "/baratmed/static/js/3.b5084446.chunk.js.map",
+    "index.html": "/baratmed/index.html",
+    "precache-manifest.9b3b9252d4f352d35218cac99d0fc0c4.js": "/baratmed/precache-manifest.9b3b9252d4f352d35218cac99d0fc0c4.js",
+    "service-worker.js": "/baratmed/service-worker.js",
+    "static/css/2.66f9e08a.chunk.css.map": "/baratmed/static/css/2.66f9e08a.chunk.css.map",
+    "static/css/main.f34b84bc.chunk.css.map": "/baratmed/static/css/main.f34b84bc.chunk.css.map",
+    "static/js/2.b271296e.chunk.js.LICENSE.txt": "/baratmed/static/js/2.b271296e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/baratmed/static/media/logo.40e885e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f743fd67.js",
+    "static/css/2.66f9e08a.chunk.css",
+    "static/js/2.b271296e.chunk.js",
+    "static/css/main.f34b84bc.chunk.css",
+    "static/js/main.8804e8b5.chunk.js"
+  ]
+}
